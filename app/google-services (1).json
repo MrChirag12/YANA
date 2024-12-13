@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "477219549536",
+    "project_id": "yana-d398e",
+    "storage_bucket": "yana-d398e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477219549536:android:f396d4b178f1103e24ee05",
+        "android_client_info": {
+          "package_name": "com.study.yana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHaLfVIKgyJDkV8fskAmnj2uIyroBGWJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
